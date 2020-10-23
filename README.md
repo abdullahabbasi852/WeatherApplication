@@ -1,6 +1,6 @@
 # Weather Application
 
-A simple flutter based todo list hybrid application implemented with Sqflite database.
+A simple, opensource weather app for Android/iOS platform using Flutter.
 
 # Requirements
 * iOS 8.0 or above
