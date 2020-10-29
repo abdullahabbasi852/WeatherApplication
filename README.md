@@ -1,6 +1,7 @@
 # Weather Application
-
 A simple, opensource weather app for Android/iOS platform using Flutter.
+
+![picture alt](https://github.com/abdullahabbasi852/WeatherApplication/blob/master/Screenshot_2020-10-29-18-44-55%5B1%5D.png)
 
 # Requirements
 * iOS 8.0 or above
